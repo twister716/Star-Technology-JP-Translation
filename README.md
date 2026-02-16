@@ -1,0 +1,1 @@
+Minecraft ModpackのStar Technologyの日本語化作業用リポジトリ
