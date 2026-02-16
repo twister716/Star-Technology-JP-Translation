@@ -1,2 +1,2 @@
-Minecraft ModpackのStar Technologyの日本語化作業用リポジトリ
+# Minecraft ModpackのStar Technologyの日本語化作業用リポジトリ
 mainブランチがメインの作業ブランチ、他ブランチはブランチ名のバージョンの翻訳アーカイブです。
